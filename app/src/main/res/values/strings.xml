@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">translator</string>
+    <string name="go_to_saved">saved words</string>
+    <string name="translate">translate</string>
+    <string name="save">save</string>
+    <string name="check_internet">please check your internet connection</string>
+    <string name="saved_succesfully">saved succesfully</string>
+    <string name="already_saved">this word is already saved</string>
+    <string name="listen">listen to translated word</string>
+</resources>

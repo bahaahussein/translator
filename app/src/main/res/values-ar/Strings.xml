@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">translator</string>
+    <string name="go_to_saved">الكلمات المحفوظة</string>
+    <string name="translate">ترجمة</string>
+    <string name="save">حفظ</string>
+    <string name="check_internet">تأكد من الاتصال بالانترنت</string>
+    <string name="saved_succesfully">تم الحفظ بنجاح</string>
+    <string name="already_saved">هذه الكلمة محفوظة مسبقا</string>
+    <string name="listen">اسمع الكلمة المترجمة</string>
+</resources>
